@@ -2,7 +2,7 @@
 
 自动从 leetcode.cn 同步的 AC 题解，按算法标签归类。
 
-共 **6** 题。最后更新：2026-06-22 13:43
+共 **6** 题。最后更新：2026-06-22 14:14
 
 
 ## math (2)
@@ -10,7 +10,7 @@
 | # | 题目 | 难度 | 版本 |
 |---|------|------|------|
 | 2 | [两数相加](problems/math/0002-add-two-numbers/) | 🟡 中等 | 1 |
-| 9 | [回文数](problems/math/0009-palindrome-number/) | 🟢 简单 | 2 |
+| 9 | [回文数](problems/math/0009-palindrome-number/) | 🟢 简单 | 3 |
 
 ## binary-search (1)
 
